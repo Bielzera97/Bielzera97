@@ -1,8 +1,7 @@
 ### Olá! eu sou Gabriel Silveira
 
 
-- 🔭 Trabalho com Front-End
-- 🌱 Estou aprendendo JavaScript
+- 🔭 Tenho conhecimento em Node.js, HTML, CSS e JavaScript
 - 📫ramos97033@outlook.com
 
 <div align="center">
