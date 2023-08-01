@@ -1,7 +1,7 @@
 ### Olá! eu sou Gabriel Silveira
 
 
-- 🔭 Tenho conhecimento em Node.js, HTML, CSS e JavaScript
+- 🔭 Tenho conhecimento em Node.js, HTML, CSS e JavaScript e Bootstrap
 - 📫ramos97033@outlook.com
 
 <div align="center">
