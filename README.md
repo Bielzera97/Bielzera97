@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png](https://raw.githubusercontent.com/Bielzera97/Bielzera97/60696f16276a8ebb18d3e8d1c2c3861132aa7901/kisspng-computer-programming-web-development-computer-soft-coder-5ac6d6012fdda4.9202230715229803531961.png)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Me chamo Gabriel Silveira, sou especializado em Front-End e estou estudando para me tornar um FullStack Developer. 
