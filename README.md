@@ -1,10 +1,20 @@
-### Olá! eu sou Gabriel Silveira
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  Me chamo Gabriel Silveira, sou especializado em Front-End e estou estudando para me tornar um FullStack Developer. 
+</p>
 
 
-- 🔭 Tenho conhecimento em Node.js, HTML, CSS e JavaScript e Bootstrap
-- 📫ramos97033@outlook.com
 
-<div align="center">
- <a href="https://github.com/Bielzera97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bielzera97&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-</div>
+<p align="left">
+  💌 Contato: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=ramos97033@outlook.com" /></a>
+
+  <a href="linkedin.com/in/paulo-perfeto" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/gabrielsilveiradev" /></a>
+
+</p>  
