@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá! Meu nome é Gabriel e atuo na área de <strong>Front-End</strong>.<br>
-  Trabalho no ICEA (Instituto de Controle do Espaço Aéreo) e sou estudando autodidata.
+  Trabalho no ICEA (Instituto de Controle do Espaço Aéreo) e sou estudante autodidata.
 </p>
 
 <p align="left">
