@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: JavaScript, TypeScript
+  🦄 Linguagens: TypeScript
 </p>
 
 <p align="left">
-  💼 Ferramentas: React.JS, BootStrap5
+  💼 Ferramentas: React.JS
 </p>
 
 <p align="left">
-  💌 Aqui estçao meus contatos: ⤵️
+  💌 Aqui esta meus contatos: ⤵️
 </p>
 
 <p align="left">
