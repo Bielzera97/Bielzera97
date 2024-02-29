@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: TypeScript
+  🦄 Linguagens: JavaScript
 </p>
 
 <p align="left">
-  💼 Ferramentas: React.JS
+  💼 Ferramentas: React.JS, Next.JS
 </p>
 
 <p align="left">
