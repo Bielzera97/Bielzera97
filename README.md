@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Meu nome é Gabriel e atuo na área de <strong>Front-End</strong>.<br>
+  Olá! Meu nome é Gabriel e sou <strong>Desenvolvedor FullStack</strong>.<br>
   Trabalho no ICEA (Instituto de Controle do Espaço Aéreo) e sou estudante autodidata.
 </p>
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: React.JS, Next.JS
+  💼 Ferramentas: Next.JS, MongoBD
 </p>
 
 <p align="left">
