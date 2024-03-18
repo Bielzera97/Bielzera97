@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Next.JS, MongoBD
+  💼 Ferramentas: Next.JS, MongoDB
 </p>
 
 <p align="left">
